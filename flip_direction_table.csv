@@ -1,0 +1,3 @@
+flip_direction,samples,errors,error_ratio
+0 to 1,48189,58,0.1204%
+1 to 0,51811,63,0.1216%
